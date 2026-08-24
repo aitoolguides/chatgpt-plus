@@ -6,7 +6,21 @@
 
 接下来，这篇文章就围绕这五种ChatGPT充值方式展开。我们会分别讲清楚每种方法需要准备什么、具体怎么操作、适合哪些人，以及实际使用时容易遇到哪些问题。大家可以根据自己的实际情况进行选择，不需要把五种方法全部折腾一遍。
 
-这里是一个导航！！！!!!!!!!!!!!!
+<blockquote>
+
+- [在充值ChatGPT前要搞清楚自己的实际需求](#在充值chatgpt前要搞清楚自己的实际需求)
+- [2026年常见的五种ChatGPT充值方式盘点](#2026年常见的五种chatgpt充值方式盘点)
+- [方法一：海外信用卡订阅ChatGPT Plus会员](#方法一海外信用卡订阅chatgpt-plus会员)
+- [方法二：通过第三方平台为ChatGPT代充值](#方法二通过第三方平台为chatgpt代充值)
+- [方法三：使用Apple礼品卡订阅ChatGPT会员](#方法三使用apple礼品卡订阅chatgpt会员)
+- [方法四：通过Google Play订阅ChatGPT会员](#方法四通过google-play订阅chatgpt会员)
+- [方法五：使用虚拟信用卡订阅ChatGPT会员](#方法五使用虚拟信用卡订阅chatgpt会员)
+- [五种ChatGPT Plus充值方式到底该怎么选择？](#五种chatgpt-plus充值方式到底该怎么选择)
+- [2026年国内充值ChatGPT需要注意哪些问题？](#2026年国内充值chatgpt需要注意哪些问题)
+- [2026年国内充值ChatGPT Plus常见问题答疑](#2026年国内充值chatgpt-plus常见问题答疑)
+- [总结：国内应该选择哪种ChatGPT充值方式？](#总结国内应该选择哪种chatgpt充值方式)
+
+</blockquote>
 
 ## 在充值ChatGPT前要搞清楚自己的实际需求
 
