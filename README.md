@@ -42,25 +42,25 @@ OK，简单一句话总结就是，如果只是想体验一下AI，ChatGPT免费
 
 如果你本身就拥有符合要求的海外信用卡，那么直接通过ChatGPT官方页面订阅，就是最直接、最省事的一种方式。而且整个操作流程也不复杂，大家按照下面的步骤操作即可：
 
-### 第一步：登录准备升级的ChatGPT账号；
+**第一步：登录准备升级的ChatGPT账号**
 
 * ChatGPT官网：https://chatgpt.com/
 
 ![订阅ChatGPT Plus会员第一步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-1.png)
 
-### 第二步：进入账号中的套餐升级页面；
+**第二步：进入账号中的套餐升级页面**
 
 ![订阅ChatGPT Plus会员第二步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-2.png)
 
-### 第三步：选择ChatGPT Plus；
+**第三步：选择ChatGPT Plus**
 
 ![订阅ChatGPT Plus会员第三步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-3.png)
 
-### 第四步：填写信用卡信息和账单信息；
+**第四步：填写信用卡信息和账单信息**
 
 ![订阅ChatGPT Plus会员第四步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-4.png)
 
-### 第五步：提交付款，完成会员订阅。
+**第五步：提交付款，完成会员订阅**
 
 ![订阅ChatGPT Plus会员第五步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-5.png)
 
@@ -74,25 +74,25 @@ OK，简单一句话总结就是，如果只是想体验一下AI，ChatGPT免费
 
 接下来，我们以目前业内比较靠谱的“**银河录像局**”这个平台为例，给大家演示一下整个操作流程！
 
-### 第一步：打开<a href="https://nf.video/BTgSc">银河录像局官网</a>，点击右上角的人形头像完成账号注册。
+**第一步：打开<a href="https://nf.video/BTgSc">银河录像局官网</a>，点击右上角的人形头像完成账号注册。**
 
 注意：银河录像局官网有备案，支持支付宝付款，有全年无休的真人在线客服，提供全程质保，支持开正规发票。
 
 ![ChatGPT代充值第一步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
 
-### 第二步：选择“Plus代充”服务，再选择一个合适的套餐，然后按照流程完成下单！
+**第二步：选择“Plus代充”服务，再选择一个合适的套餐，然后按照流程完成下单！**
 
 注意：为了保险起见，建议先选择短期套餐，比如“1个月189元”这个套餐即可。
 
 ![ChatGPT代充值第二步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-2.png)
 
-### 第三步：登录你的ChatGPT账号，按照提示提交充值凭证，然后等待几秒钟即可完成ChatGPT Plus充值！
+**第三步：登录你的ChatGPT账号，按照提示提交充值凭证，然后等待几秒钟即可完成ChatGPT Plus充值！**
 
 注意：银河录像局提供的ChatGPT代充服务不需要提交ChatGPT账号密码，而且全程都是自助完成的，完全不需要联系人工客服！
 
 ![ChatGPT代充值第三步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
 
-### 第四步：接下来就可以正式开始使用你的ChatGPT Plus会员了，后续有任何问题都可以直接找平台的在线客服！
+**第四步：接下来就可以正式开始使用你的ChatGPT Plus会员了，后续有任何问题都可以直接找平台的在线客服！**
 
 ![ChatGPT代充值第四步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-4.png)
 
