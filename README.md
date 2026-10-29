@@ -10,15 +10,15 @@
 
 <blockquote>
 
-方案一：[海外信用卡直接订阅]：这是最直接的官方订阅方式，操作起来也很简单。但有一个大前提，那就是你已经有了一张可以正常支付ChatGPT订阅费用的海外实体信用卡（国内双币信用卡是不行的！）。
+方案一：[海外信用卡直接订阅](#方法一海外信用卡订阅chatgpt-plus会员)：这是最直接的官方订阅方式，操作起来也很简单。但有一个大前提，那就是你已经有了一张可以正常支付ChatGPT订阅费用的海外实体信用卡（国内双币信用卡是不行的！）。
 
-方案二：[第三方大平台代充值]：这种方式最省心省事，非常适合只想快速开通ChatGPT Plus会员的普通用户。因为不需要自己折腾海外信用卡或苹果礼品卡，可以直接使用支付宝或者微信来付款。
+方案二：[第三方大平台代充值](#方法二通过第三方平台为chatgpt代充值)：这种方式最省心省事，非常适合只想快速开通ChatGPT Plus会员的普通用户。因为不需要自己折腾海外信用卡或苹果礼品卡，可以直接使用支付宝或者微信来付款。
 
-方案三：[使用苹果礼品卡订阅]：这种方式操作难度中等，仅适合拥有iPhone、iPad等设备，并且非常熟悉苹果礼品卡兑换流程的老用户。此外，还需要先处理好苹果外区账号和外区苹果礼品卡的问题。
+方案三：[使用苹果礼品卡订阅](#方法三使用apple礼品卡订阅chatgpt会员)：这种方式操作难度中等，仅适合拥有iPhone、iPad等设备，并且非常熟悉苹果礼品卡兑换流程的老用户。此外，还需要先处理好苹果外区账号和外区苹果礼品卡的问题。
 
-方案四：[通过Google Play订阅]：这种方式同样有一定的操作难度，适合已经有Google Play海外账号和可用付款方式的Android用户。如果之前没有相关使用经验，可能还需要花些时间处理账号地区和付款方式等问题。
+方案四：[通过Google Play订阅](#方法四通过google-play订阅chatgpt会员)：这种方式同样有一定的操作难度，适合已经有Google Play海外账号和可用付款方式的Android用户。如果之前没有相关使用经验，可能还需要花些时间处理账号地区和付款方式等问题。
 
-方案五：[使用海外虚拟信用卡订阅]：这种方式会非常的折腾，不仅需要自己申请虚拟卡，还可能涉及实名认证、开卡费、充值手续费等问题。而且，并不是所有海外虚拟信用卡都能成功支付ChatGPT订阅费用，所以不太建议完全没有经验的新手专门为此开卡。
+方案五：[使用海外虚拟信用卡订阅](#方法五使用虚拟信用卡订阅chatgpt会员)：这种方式会非常的折腾，不仅需要自己申请虚拟卡，还可能涉及实名认证、开卡费、充值手续费等问题。而且，并不是所有海外虚拟信用卡都能成功支付ChatGPT订阅费用，所以不太建议完全没有经验的新手专门为此开卡。
 
 </blockquote>
 
@@ -46,13 +46,23 @@ OK，简单一句话总结就是，如果只是想体验一下AI，ChatGPT免费
 
 * ChatGPT官网：https://chatgpt.com/
 
+![订阅ChatGPT Plus会员第一步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-1.png)
+
 ### 第二步：进入账号中的套餐升级页面；
+
+![订阅ChatGPT Plus会员第二步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-2.png)
 
 ### 第三步：选择ChatGPT Plus；
 
+![订阅ChatGPT Plus会员第三步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-3.png)
+
 ### 第四步：填写信用卡信息和账单信息；
 
+![订阅ChatGPT Plus会员第四步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-4.png)
+
 ### 第五步：提交付款，完成会员订阅。
+
+![订阅ChatGPT Plus会员第五步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-%E8%AE%A2%E9%98%85-5.png)
 
 注意：如果你自己没有合适的海外信用卡，但有长期生活在海外的亲友愿意帮忙付款，也可以请他们帮你完成ChatGPT Plus订阅。不过需要提醒大家的是，ChatGPT Plus会员采用按月订阅的方式，默认后续会自动续费。此外，如果后续遇到退款、支付验证或者账单问题，还需要持卡人配合处理，这些最好提前了解清楚。
 
@@ -62,21 +72,29 @@ OK，简单一句话总结就是，如果只是想体验一下AI，ChatGPT免费
 
 注意：如果你已经有ChatGPT账号了，那么可以找第三方平台帮你完成ChatGPT Plus订阅升级，整个过程你几乎什么都不用做，三分钟之内即可完成；如果你还没有ChatGPT账号，也可以考虑直接使用第三方平台提供的现成ChatGPT Plus会员账号，同样简单省事儿。
 
-接下来，我们以目前业内比较靠谱的“银河录像局”这个平台为例，给大家演示一下整个操作流程！
+接下来，我们以目前业内比较靠谱的“**银河录像局**”这个平台为例，给大家演示一下整个操作流程！
 
-### 第一步：打开银河录像局官网，点击右上角的人形头像完成账号注册。
+### 第一步：打开<a href="https://nf.video/BTgSc">银河录像局官网</a>，点击右上角的人形头像完成账号注册。
 
 注意：银河录像局官网有备案，支持支付宝付款，有全年无休的真人在线客服，提供全程质保，支持开正规发票。
+
+![ChatGPT代充值第一步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
 
 ### 第二步：选择“Plus代充”服务，再选择一个合适的套餐，然后按照流程完成下单！
 
 注意：为了保险起见，建议先选择短期套餐，比如“1个月189元”这个套餐即可。
 
+![ChatGPT代充值第二步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-2.png)
+
 ### 第三步：登录你的ChatGPT账号，按照提示提交充值凭证，然后等待几秒钟即可完成ChatGPT Plus充值！
 
 注意：银河录像局提供的ChatGPT代充服务不需要提交ChatGPT账号密码，而且全程都是自助完成的，完全不需要联系人工客服！
 
+![ChatGPT代充值第三步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
+
 ### 第四步：接下来就可以正式开始使用你的ChatGPT Plus会员了，后续有任何问题都可以直接找平台的在线客服！
+
+![ChatGPT代充值第四步：](https://raw.githubusercontent.com/aitoolguides/chatgpt-plus/refs/heads/main/image/ChatGPT%E4%BB%A3%E5%85%85%E5%80%BC-4.png)
 
 值得注意的是，大家在选择ChatGPT代充值平台的时候，千万不要只盯着价格看。尽量选择有专业团队运营、有备案、运营时间比较长、用户口碑也比较稳定的平台。同时，也要提前看清楚退款政策和售后规则，比如是否有人工客服、哪些情况提供售后保障、是否支持开发票等，避免后面遇到问题不好处理。
 
@@ -92,11 +110,11 @@ OK，简单一句话总结就是，如果只是想体验一下AI，ChatGPT免费
 * 第六步：在App内进入会员升级页面，选择ChatGPT Plus；
 * 第七步：使用Apple账户余额完成ChatGPT Plus订阅。
 
-注意事项一：这里最容易踩坑的地方，就是Apple账户地区、礼品卡地区和App Store地区必须一致。不同国家和地区的Apple礼品卡不能随便混用。比如你的Apple账户是美区账号，那么就需要购买美区Apple礼品卡。大家不要看到某个地区的Apple礼品卡便宜，就先买下来再研究自己的Apple账户能不能兑换。一旦礼品卡地区买错了，后面处理起来会很麻烦。
+**注意事项一**：这里最容易踩坑的地方，就是Apple账户地区、礼品卡地区和App Store地区必须一致。不同国家和地区的Apple礼品卡不能随便混用。比如你的Apple账户是美区账号，那么就需要购买美区Apple礼品卡。大家不要看到某个地区的Apple礼品卡便宜，就先买下来再研究自己的Apple账户能不能兑换。一旦礼品卡地区买错了，后面处理起来会很麻烦。
 
-注意事项二：大家不要以为ChatGPT Plus官方价格是20美元/月，Apple账户里只准备20美元余额就够了。通过App Store订阅时，最终显示的价格、币种以及可能产生的税费，都要以当前Apple账户对应的付款页面为准。所以，大家最好在Apple账户里多留一点余额，避免因为余额不足而导致ChatGPT Plus订阅失败。
+**注意事项二**：大家不要以为ChatGPT Plus官方价格是20美元/月，Apple账户里只准备20美元余额就够了。通过App Store订阅时，最终显示的价格、币种以及可能产生的税费，都要以当前Apple账户对应的付款页面为准。所以，大家最好在Apple账户里多留一点余额，避免因为余额不足而导致ChatGPT Plus订阅失败。
 
-注意事项三：如果你以后不准备继续订阅ChatGPT Plus会员了，记得进入Apple的订阅管理页面取消自动续费。单纯把ChatGPT App从手机里卸载，并不会自动取消会员订阅。
+**注意事项三**：如果你以后不准备继续订阅ChatGPT Plus会员了，记得进入Apple的订阅管理页面取消自动续费。单纯把ChatGPT App从手机里卸载，并不会自动取消会员订阅。
 
 ## 方法四：通过Google Play订阅ChatGPT会员
 
